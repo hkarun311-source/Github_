@@ -6,3 +6,7 @@ My name is Arun H Kalamuddi, and I am pursuing B.Tech in Computer Science and In
 - Interested in artificial intelligence and machine learning.
 - Goal: contribute to open source projects.
 
+## Projects
+
+- **Face Mask Detection:** Built a computer vision project using Python, TensorFlow, Keras, and OpenCV to detect whether a person is wearing a face mask.
+- **Line Editor in C:** Developing a simple line-based text editor using C programming.
